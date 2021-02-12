@@ -96,4 +96,10 @@
     font-size: 20px;
     width: 100px;
    }
+   .title-h1 {
+     margin-left: 30px
+   }
+   .title-h6 {
+     margin-left: 30px
+   }
 }
