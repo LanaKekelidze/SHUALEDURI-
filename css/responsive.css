@@ -78,4 +78,18 @@
     }
 }
 
-
+@media (max-width:380px) {
+  .paragrap {
+      width: 200px;
+      font-size: 10px
+  }
+  .parag {
+      width: 200px;
+      margin-top: 10px;
+      font-size: 10px
+  }
+  .button {
+    width: 100px;
+    height: 25px;
+  }
+}
